@@ -20,15 +20,15 @@ nav {
 }
 
 #nav {
-   background: #FFBB66;
+   background: #AAAAAA;
   
 }
 
 .abc {
     margin:  10px;
-    border-bottom: 6px solid  #FFBB66;
+    border-bottom: 6px solid  #AAAAAA;
     transition: 0.5s ease;
-    background:  #FFBB66;
+    background:  #AAAAAA;
     color: #fff;
     font-size: 20px;
 
@@ -75,7 +75,7 @@ html{
 }
 
 body{
-  background-color: #AAAAAA;
+  background-color: #FFBB66;
   background-position: center;
   background-size: cover;
   padding: 0;
